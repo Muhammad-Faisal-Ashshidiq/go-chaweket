@@ -2,7 +2,7 @@ package module
 
 import (
 	"fmt"
-	"github.com/sidiq200/go-chaweket/tipestruct"
+	"github.com/muhammad-faisal-ashshidiq/go-chaweket/tipestruct"
 	"log"
 )
 

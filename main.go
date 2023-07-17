@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2"
-	"github.com/sidiq200/go-chaweket/module"
-	"github.com/sidiq200/go-chaweket/url"
+	"github.com/muhammad-faisal-ashshidiq/go-chaweket/module"
+	"github.com/muhammad-faisal-ashshidiq/go-chaweket/url"
 	"log"
 )
 

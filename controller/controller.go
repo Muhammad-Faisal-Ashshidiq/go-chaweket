@@ -6,8 +6,8 @@ import (
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/websocket/v2"
-	"github.com/sidiq200/go-chaweket/module"
-	"github.com/sidiq200/go-chaweket/tipestruct"
+	"github.com/muhammad-faisal-ashshidiq/go-chaweket/module"
+	"github.com/muhammad-faisal-ashshidiq/go-chaweket/tipestruct"
 )
 
 func Websocket(c *websocket.Conn) {
